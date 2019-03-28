@@ -1,0 +1,6 @@
+c:\users\septimandaro\documents\visual studio 2015\Projects\bootcamp\bootcamp\bin\Debug\bootcamp.exe.config
+c:\users\septimandaro\documents\visual studio 2015\Projects\bootcamp\bootcamp\bin\Debug\bootcamp.exe
+c:\users\septimandaro\documents\visual studio 2015\Projects\bootcamp\bootcamp\bin\Debug\bootcamp.pdb
+c:\users\septimandaro\documents\visual studio 2015\Projects\bootcamp\bootcamp\obj\Debug\bootcamp.csprojResolveAssemblyReference.cache
+c:\users\septimandaro\documents\visual studio 2015\Projects\bootcamp\bootcamp\obj\Debug\bootcamp.exe
+c:\users\septimandaro\documents\visual studio 2015\Projects\bootcamp\bootcamp\obj\Debug\bootcamp.pdb
